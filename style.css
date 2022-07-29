@@ -219,6 +219,10 @@ footer{
 form{
     display: none;
 }
+
+.info{
+    margin-top: 2em;
+}
 }
 
 
