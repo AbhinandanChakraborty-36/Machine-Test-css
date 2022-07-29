@@ -203,14 +203,8 @@ footer{
 
 }
 
-@media (max-width: 575x)
+@media (max-width: 575px)
 {
-    .banner{
-        display: flex;
-        flex-direction: column;
-
-    }
-
 .products{
     flex-direction: column;
 }
